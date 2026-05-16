@@ -22,6 +22,8 @@ and agent efficiency.
 - 👤 Top agent: Joshua Dillon (฿270K revenue)
 - 🏆 Top customer: CUST1412 (฿239K revenue)
 - ⚠️ Agent Joseph Sims — 45.45% cancel rate
+-  Meuang city - highest orders (866)
+-  Avg agent rating : 3.85 / 5.0
 
 ## Project Structure
 - Logistic_Profile.ipynb — Data cleaning & EDA
@@ -32,4 +34,6 @@ and agent efficiency.
 ### Overview
 ![Overview](overview.png)
 ### Agent Analysis
-![Agent Analysis](agent_analysis.png)
+![Agent Analysis](agent_analysis.png) 
+## Dashboard 
+![View Full Dashboard PDF](logistic_profile.pdf)
