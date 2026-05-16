@@ -29,5 +29,7 @@ and agent efficiency.
 - Dashboard — Power BI report (PDF)
 
 ## Dashboard Preview
-[Page 1 - Overview]
-[Page 6 - Agent Analysis]
+### Overview
+![Overview](overview.png)
+### Agent Analysis
+![Agent Analysis](agent_analysis.png)
