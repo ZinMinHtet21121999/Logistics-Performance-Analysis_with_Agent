@@ -10,7 +10,6 @@ and agent efficiency.
 - Power BI
 - SQL
 - Jupyter Notebook
-- SQLite
 
 ## Dataset
 - Orders: 5,000 rows
@@ -31,6 +30,7 @@ and agent efficiency.
 - Dashboard — Power BI report (PDF)
 - logistic_clean.csv - Cleaned dataset
 - delivery_agents.csv - Agent dataset
+- logistic_analysis.sql - SQL queries and analysis
 
 ## Dashboard Preview
 ### Overview
