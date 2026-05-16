@@ -22,7 +22,6 @@ and agent efficiency.
 - 👤 Top agent: Joshua Dillon (฿270K revenue)
 - 🏆 Top customer: CUST1412 (฿239K revenue)
 - ⚠️ Agent Joseph Sims — 45.45% cancel rate
--  Meuang city - highest orders (866)
 -  Avg agent rating : 3.85 / 5.0
 
 ## Project Structure
