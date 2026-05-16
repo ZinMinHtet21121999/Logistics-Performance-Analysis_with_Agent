@@ -15,6 +15,7 @@ and agent efficiency.
 ## Dataset
 - Orders: 5,000 rows
 - Agents: 220 agents
+- Period : May 2026
 
 ## Key Findings
 - 🔴 Chiang Mai highest cancel rate (20.18%)
@@ -28,6 +29,8 @@ and agent efficiency.
 - Logistic_Profile.ipynb — Data cleaning & EDA
 - merge_with_agents.ipynb — Agent analysis
 - Dashboard — Power BI report (PDF)
+- logistic_clean.csv - Cleaned dataset
+- delivery_agents.csv - Agent dataset
 
 ## Dashboard Preview
 ### Overview
